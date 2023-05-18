@@ -70,11 +70,18 @@ namespace ChallengesWithTestsMark8
         }
         public int Factorial(int number)
         {
-            int fact = 1;
-            for (int i = 2; i <= number; i++)
+            var fact = 1;
+
+            if (number < 0)
             {
-                 fact = fact * i;
+                throw new ArgumentOutOfRangeException();
             }
+
+            for (int i = number; i > 0; i--)
+            {
+                fact *= i;
+            }
+
             return fact;
         }
         

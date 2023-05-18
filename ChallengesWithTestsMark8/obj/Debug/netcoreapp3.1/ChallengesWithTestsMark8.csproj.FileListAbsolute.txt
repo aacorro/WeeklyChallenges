@@ -25,3 +25,17 @@ C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\WeeklyChallenges\ChallengesWith
 C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
 C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+D:\AllDocs\backupFiles\docsOldDesktop\TrueCoders\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
